@@ -1,32 +1,34 @@
 # ProjectsForLiberation
 
-Projects for a more open society, participatory democracy, full transparency, etc. 
+Projects for a more open society, participatory democracy, full transparency, etc.
 
-Liberation from what? It is clear that our so-called "democracies" are, in fact, oligarchal and coercive in nature. This repository will act as an index for projects that seek to build democratic people's power over private interest groups which rule our world. 
+Liberation from what? It is clear that our so-called "democracies" are, in fact, oligarchal and coercive in nature. This repository will act as an index for projects that seek to build democratic people's power over private interest groups which rule our world.
 
-All projects live in [this trello board](https://trello.com/b/2pETMHrd) before they are built on github. 
+All projects live in [this trello board](https://trello.com/b/2pETMHrd) before they are built on github.
 
 ## Diagram of Power
 
-A collaborative diagram to identify power structures. An investigative journalism tool. 
+A collaborative diagram to identify power structures. An investigative journalism tool.
+
+![](https://raw.githubusercontent.com/sirjamesgray/ProjectsForLiberation/master/images/power.png)
 
 ## Demands Progress Tracker
 
-To track the progress of popular demands. A pipeline from ideas to legislation. Visualize milestones, obstacles, possible pathways, alternatives, etc. 
+To track the progress of popular demands. A pipeline from ideas to legislation. Visualize milestones, obstacles, possible pathways, alternatives, etc.
 
-Gannt chart interface, horizontal timeline interface with branching and color coding. 
+Gantt chart interface, horizontal timeline interface with branching and color coding.
 
 ## Automate All Jobs
 
 In order to abolish wage slavery and to reach a better stage of human society, we should automate our jobs. This tool will be used to map out all tasks and processes involved with each job, so we can reduce human labor.
 
-Solutions to mass unemployment will be be considered only after sufficent unemployment is reached. Proposed soutions include a universal income (UBI) and democratic command of the economy, abolition of profit, and moneyless post-scarcity society. 
+Solutions to mass unemployment will be be considered only after sufficent unemployment is reached. Proposed soutions include a universal income (UBI) and democratic command of the economy, abolition of profit, and moneyless post-scarcity society.
 
-Solutions can be facilitated with the above "Demands Progress Tracker". 
+Solutions can be facilitated with the above "Demands Progress Tracker".
 
 ## Cost vs. Price Analysis
 
-Cost analaysis of every consumer product to visualize industrial inefficiencies. We can optimize those inefficencies, reduce waste, and reduce corporate profits. Visualizing profits and inefficiencies will allow us to reduce the cost of consumer products. 
+Cost analaysis of every consumer product to visualize industrial inefficiencies. We can optimize those inefficencies, reduce waste, and reduce corporate profits. Visualizing profits and inefficiencies will allow us to reduce the cost of consumer products.
 
 ## Democratically Planned Economy
 
@@ -38,20 +40,20 @@ Landlords are a cost inefficency. Profiteering and rent-seeking are not cool. Bu
 
 The concept is comprised of the following components
 - a "Zillow" interface to visualize rent prices
-- a B.I.M. simulator to estemate potential savings under a housing cooperative model 
+- a B.I.M. simulator to estemate potential savings under a housing cooperative model
 - a "Nextdoor" social media aspect to help tenants organize together and make collective demands
 
-## Source Code Avaialability Diagram 
+## Source Code Avaialability Diagram
 
-map out all software with wireframes, rebuild all source code by observation (codepen-esque interface to do so), visualize code coverage. 
+map out all software with wireframes, rebuild all source code by observation (codepen-esque interface to do so), visualize code coverage.
 
-The goal is to get to 100% source code reconstruction - open source by observation. 
+The goal is to get to 100% source code reconstruction - open source by observation.
 
 ## UBI Simulator
 
-a tool to visualize how we could redistribute current expenditures (military spending, etc.) to provide a universal basic income for all citizens. 
+a tool to visualize how we could redistribute current expenditures (military spending, etc.) to provide a universal basic income for all citizens.
 
 data points:
 - (p) number of citizens
 - (c) existing spending ( $ / time unit )
-- % of existing spending (c) to redirect to each citizen (p) 
+- % of existing spending (c) to redirect to each citizen (p)
