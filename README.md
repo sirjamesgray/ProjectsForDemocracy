@@ -48,7 +48,7 @@ Landlords are a cost inefficency. Profiteering and rent-seeking are not cool. Bu
 
 The concept is comprised of the following components
 - a "Zillow" interface to visualize rent prices
-- a B.I.M. simulator to estemate potential savings under a housing cooperative model
+- a [B.I.M.](https://en.wikipedia.org/wiki/Building_information_modeling) simulator to estemate potential savings under a housing cooperative model
 - a "Nextdoor" social media aspect to help tenants organize together and make collective demands
 
 [needs image]
