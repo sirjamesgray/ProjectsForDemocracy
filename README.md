@@ -1,6 +1,6 @@
 # ProjectsForDemocracy
 
-Projects for a more open society, participatory democracy, full transparency, etc.
+Projects for a more democratic society, participatory democracy, full transparency, etc.
 
 All projects live in [this trello board](https://trello.com/b/2pETMHrd) before they are built on github.
 
