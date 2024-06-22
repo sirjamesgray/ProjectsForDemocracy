@@ -1,6 +1,6 @@
 # ProjectsForDemocracy
 
-When it's ready, all of these will be moved over to [WeWrite](https://getwewrite.app/), where each idea can collect recurring donations. 
+When it's ready, all of these will be moved over to [WeWrite](https://github.com/WeWriteApp), where each idea can collect recurring donations. 
 
 Projects for a more democratic society, participatory democracy, full transparency, etc.
 
