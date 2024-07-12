@@ -2,6 +2,8 @@
 
 When it's ready, all of these will be moved over to [WeWrite](https://github.com/WeWriteApp), where each idea can collect recurring donations. 
 
+These are from Dec 29, 2017: 
+
 Projects for a more democratic society, participatory democracy, full transparency, etc.
 
 All projects live in [this trello board](https://trello.com/b/2pETMHrd) before they are built on github.
